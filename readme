@@ -3,4 +3,5 @@ This is the use case on Machine Learning in Actuarial Science in R I participate
 
 
 This project is an example of extracting the largest possible insights from the existing data by using neural network to automatically construct features and select features.
+
 The innovative part of this notebook is section 5.2, where you will find an algorithm for hyperparameter tuning in deep learning. This algorithm can be easily applied into all deep learning projects.
