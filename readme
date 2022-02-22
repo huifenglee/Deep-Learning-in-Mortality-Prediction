@@ -1,2 +1,4 @@
 
-This is the use case on Machine Learning in Actuarial Science I participated on and developed by and large for the Working Group Statistical Methods within the Committee Actuarial Data Science of the German Actuarial Association. This use case builds upon the method and model presented there and extends it by looking at different datasets and introducing a hyperparameter search for the neural networks.
+This is the use case on Machine Learning in Actuarial Science in R I participated on and developed by and large for the Working Group Statistical Methods within the Committee Actuarial Data Science of the German Actuarial Association. This use case builds upon the method and model presented there and extends it by looking at different datasets and introducing a hyperparameter search for the neural networks.
+
+The innovative part of this notebook is section 5.2, where you will find an algorithm for hyperparameter tuning in deep learning. This algorithm can be easily applied into all deep learning projects.
