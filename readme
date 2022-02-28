@@ -1,5 +1,5 @@
 
-This is the use case on Machine Learning in Actuarial Science in R I participated on and developed by and large for the Working Group Statistical Methods within the Committee Actuarial Data Science of the German Actuarial Association. This use case builds upon the method and model presented there and extends it by looking at different datasets and introducing a hyperparameter search for the neural networks.
+This is the use case on Machine Learning in Actuarial Science in R I developed by and large for in the year of 2020 for the Working Group Statistical Methods within the Committee Actuarial Data Science of the German Actuarial Association. This use case builds upon the method and model presented there and extends it by looking at different datasets and introducing a hyperparameter search for the neural networks.
 
 This project is an example of extracting the largest possible insights from the existing data by using neural network to automatically construct features and select features.
 
