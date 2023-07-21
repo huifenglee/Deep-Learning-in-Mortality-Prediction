@@ -1,6 +1,8 @@
 
 This is the use case on Machine Learning in Actuarial Science in R I developed by and large in the year of 2020 for the Working Group Statistical Methods within the Committee Actuarial Data Science of the German Actuarial Association (DAV). This use case builds upon the method and model presented there and extends it by looking at different datasets and introducing a hyperparameter search for the neural networks.
+
 For official introduction of this use case, please refer to this link (https://aktuar.de/unsere-themen/big-data/anwendungsfaelle/Seiten/anwendungsfall3.aspx) of DAV. 
+
 This project is an example of extracting the largest possible insights from the existing data by using neural network to automatically construct features and select features.
 
 The innovative part of this notebook is section 5.2, where you will find an algorithm for hyperparameter tuning in deep learning. This algorithm can be easily applied into all deep learning projects.
